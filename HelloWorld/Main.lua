@@ -1,0 +1,1 @@
+require("GUI").error("Hello world")
