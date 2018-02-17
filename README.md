@@ -1,4 +1,4 @@
 # r809 MineOS Tools
-* [r809 MineOS Terminal](tree/master/Terminal)
-* [r809 Downloader](tree/master/r809Downloader)
-* [Hello World](tree/master/HelloWorld) 
+* [r809 MineOS Terminal](../master/Terminal)
+* [r809 Downloader](../master/R809Downloader)
+* [Hello World](../master/HelloWorld) 
