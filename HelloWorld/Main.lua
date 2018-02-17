@@ -1,1 +1,1 @@
-require("GUI").error("Hello world")
+require("GUI").error("Hello world!")
