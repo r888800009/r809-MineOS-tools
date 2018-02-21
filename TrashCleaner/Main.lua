@@ -1,6 +1,5 @@
 -- make by r888800009
 -- MIT License
-
 local MineOSPaths = require("MineOSPaths")
 local fs = require("filesystem")
 local getFiles = fs.list(MineOSPaths.trash)
