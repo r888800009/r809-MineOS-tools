@@ -1,1 +1,3 @@
-require("GUI").error("Hello world!")
+local MineOSCore = require("MineOSCore")
+local Localization = MineOSCore.getCurrentApplicationLocalization() 
+require("GUI").error(Localization.helloworld)
